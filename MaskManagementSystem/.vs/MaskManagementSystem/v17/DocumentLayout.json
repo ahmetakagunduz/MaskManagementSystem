@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7347DE-80F5-4DDB-9FAB-C2C8FB3F8CE5}|Workaround\\Workaround.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7347DE-80F5-4DDB-9FAB-C2C8FB3F8CE5}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C45CA-75B4-4460-AA2A-2A2C7BCC0DD8}|Entities\\Entities.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C45CA-75B4-4460-AA2A-2A2C7BCC0DD8}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\business\\contrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|solutionrelative:business\\contrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\business\\contrete\\mainsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|solutionrelative:business\\contrete\\mainsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\business\\contrete\\foreignpersonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|solutionrelative:business\\contrete\\foreignpersonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|c:\\users\\logar\\desktop\\kampc#\\maskmanagementsystem\\maskmanagementsystem\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C83ECF6-4E57-46AC-8187-E06BFBCD4C9C}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:28:46.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForeignPersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\ForeignPersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Contrete\\ForeignPersonManager.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\ForeignPersonManager.cs",
+              "RelativeToolTip": "Business\\Contrete\\ForeignPersonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:59:08.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:43:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\MainSupplier.cs",
+              "RelativeDocumentMoniker": "Business\\Contrete\\MainSupplier.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\MainSupplier.cs",
+              "RelativeToolTip": "Business\\Contrete\\MainSupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:07:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Contrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Contrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Contrete\\PersonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:01:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:44:48.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:57:28.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

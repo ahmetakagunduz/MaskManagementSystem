@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Workaround.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\logar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\logar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\logar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\logar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Workaround.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Workaround.csproj",
+        "projectName": "Workaround",
+        "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\Workaround.csproj",
+        "packagesPath": "C:\\Users\\logar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Workaround\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\logar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Business\\Business.csproj"
+              },
+              "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\logar\\Desktop\\kampc#\\MaskManagementSystem\\MaskManagementSystem\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

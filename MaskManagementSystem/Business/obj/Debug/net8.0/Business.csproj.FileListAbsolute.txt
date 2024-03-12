@@ -1,0 +1,15 @@
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\bin\Debug\net8.0\Business.dll
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.dll
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\logar\Desktop\kampc#\MaskManagementSystem\MaskManagementSystem\Business\obj\Debug\net8.0\ref\Business.dll
